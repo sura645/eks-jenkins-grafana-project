@@ -1,0 +1,12 @@
+{
+  "name": "devops-hello-app",
+  "version": "1.0.0",
+  "description": "Jenkins EKS CI/CD project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
