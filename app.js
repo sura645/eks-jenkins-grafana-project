@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("Hello! My application is running on AWS EKS 🚀");
+    res.send("Hello! My application is running on Suraj Sytem AWS EKS 🚀");
 });
 
 app.get("/health", (req, res) => {
