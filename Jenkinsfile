@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_USER = " suraj645"
+        DOCKER_USER = "suraj645"
         IMAGE_NAME = "devops-hello-app"
         AWS_REGION = "ap-south-1"
         EKS_CLUSTER = "devops-eks"
